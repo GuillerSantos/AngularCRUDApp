@@ -28,3 +28,4 @@ C:\Projects\LearnAngular\src\AngularCRUDApp\AngularCRUDApp.Application\obj\Debug
 C:\Projects\LearnAngular\src\AngularCRUDApp\AngularCRUDApp.Application\obj\Debug\net9.0\refint\AngularCRUDApp.Application.dll
 C:\Projects\LearnAngular\src\AngularCRUDApp\AngularCRUDApp.Application\obj\Debug\net9.0\AngularCRUDApp.Application.pdb
 C:\Projects\LearnAngular\src\AngularCRUDApp\AngularCRUDApp.Application\obj\Debug\net9.0\ref\AngularCRUDApp.Application.dll
+C:\Projects\LearnAngular\AngularCRUDApp\AngularCRUDApp.Application\obj\Debug\net9.0\AngularCRUDApp.Application.sourcelink.json

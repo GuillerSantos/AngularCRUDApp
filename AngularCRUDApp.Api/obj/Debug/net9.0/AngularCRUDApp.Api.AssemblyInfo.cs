@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AngularCRUDApp.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09bd35c3c8476e589cc760d19fbfcdbcac0c35dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AngularCRUDApp.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AngularCRUDApp.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

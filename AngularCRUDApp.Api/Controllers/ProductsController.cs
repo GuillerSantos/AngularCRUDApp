@@ -19,14 +19,14 @@ namespace AngularCRUDApp.Api.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create([FromQuery] CreateProductCommand command)
+        public async Task<IActionResult> Create([FromBody] CreateProductCommand command)
         {
             var productId = await mediator.Send(command);
             return Ok($"Product ID: {productId}");
         }
 
         [HttpPut]
-        public async Task<IActionResult> Update([FromQuery] UpdateProductDto updatedproduct)
+        public async Task<IActionResult> Update([FromBody] UpdateProductDto updatedproduct)
         {
             if (updatedproduct.Id != updatedproduct.Id)
             {

@@ -346,3 +346,4 @@ C:\Projects\LearnAngular\src\AngularCRUDApp\AngularCRUDApp.Api\obj\Debug\net9.0\
 C:\Projects\LearnAngular\src\AngularCRUDApp\AngularCRUDApp.Api\obj\Debug\net9.0\AngularCRUDApp.Api.genruntimeconfig.cache
 C:\Projects\LearnAngular\src\AngularCRUDApp\AngularCRUDApp.Api\obj\Debug\net9.0\ref\AngularCRUDApp.Api.dll
 C:\Projects\LearnAngular\AngularCRUDApp\AngularCRUDApp.Api\obj\Debug\net9.0\AngularCRUDApp.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\LearnAngular\AngularCRUDApp\AngularCRUDApp.Api\obj\Debug\net9.0\AngularCRUDApp.Api.sourcelink.json

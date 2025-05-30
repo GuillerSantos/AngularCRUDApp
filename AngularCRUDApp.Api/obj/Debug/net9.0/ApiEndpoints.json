@@ -18,44 +18,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Product.Id",
-        "Type": "System.Guid",
-        "IsRequired": false
-      },
-      {
-        "Name": "Product.ProductName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Product.ProductDescription",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Product.ProductPrice",
-        "Type": "System.Decimal",
-        "IsRequired": false
-      },
-      {
-        "Name": "Product.ProductStock",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Product.ProductImage",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Product.ProductCategory",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Product.ProductBrand",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "command",
+        "Type": "AngularCRUDApp.Application.CommandQueries.Product.CreateProductCommand",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -69,44 +34,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "Id",
-        "Type": "System.Guid",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProductName",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProductDescription",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProductPrice",
-        "Type": "System.Decimal",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProductStock",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProductImage",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProductCategory",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProductBrand",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "updatedproduct",
+        "Type": "AngularCRUDApp.Application.DTOs.UpdateProductDto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
